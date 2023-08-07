@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 60px - 100px);
+}
+
+.formSection {
+    padding: 20px;
+}
+
+svg {
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+form {
+    font-size: 16px;
+    width: 584px;
+    height: 46px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    display: flex;
+    align-items: center;
+    overflow-x: hidden;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+input[type=text] {
+    border: none;
+    /* height: 35px; */
+    width: 100%;
+    font-size: 20px;
+}
+
+input[type=text]:focus::placeholder {
+    color: transparent;
+}
+
+input[type=text]:focus {
+    outline: none;
+}
+
+.searchSVG {
+    margin-right: 13px;
+    cursor: default;
+}
+
+.voiceSVG,
+.lencSVG {
+    justify-self: center;
+    margin: auto 5px;
+
+}
+
+.submitLucky {
+    padding-top: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.submitLucky > input,
+.submitLucky > button {
+    margin: 11px 4px;
+    padding: 0px 16px;
+    line-height: 27px;
+    height: 36px;
+    border-radius: 4px;
+    border: 0px solid grey;
+    cursor: pointer;
+}
+
+.submitLucky > input:hover,
+.submitLucky > button:hover {
+    border: 1px solid grey;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.rightNav {
+    display: flex;
+    align-content: center;
+    justify-content: right;
+    padding: 6px;
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.rightNav > div {
+    padding: 7.5px;
+    align-self: center;
+}
+
+.signIn {
+    background-color: #1a73e8;
+    border: 1px solid transparent;
+    cursor: pointer;
+    padding: 4px;
+    font-family: Google Sans,Roboto,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: .25px;
+    line-height: 16px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 8px;
+    min-width: 96px;
+    padding: 9px 23px;
+    border-radius: 4px;
+    align-self: center;
+}
+
+.signIn > a {
+    color: white;
+}
+
+.rightNav > div > a:hover {
+    text-decoration: underline;
+}
+
+.menuSVG {
+    margin: 4px;
+    align-self: center;
+    cursor: pointer;
+}
+
+.menuSVG:hover {
+    background-color: rgba(147, 147, 147, 0.159);
+    border-radius: 50%;
+}
+
+
+.languageSupport {
+    font-size: small;
+    line-height: 28px;
+    text-align: center;
+}
+
+.languageSupport a {
+    color: #0000ee;
+}
+
+.nationName {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+footer {
+    height: 100px;
+    background-color: #91919115;
+}
+
+.quickLinks {
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.leftLinks {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.rightLinks {
+    display: flex;
+    justify-content: right;
+}
+
+.leftLinks > div,
+.rightLinks > div {
+    padding: 15px;
+}
+
+.leftLinks > div > a,
+.rightLinks > div > a{
+    color: #70757a;
+    font-size: 14px;
+}
+
+.leftLinks > div > a:hover,
+.rightLinks > div > a:hover{
+    text-decoration: underline;
+}
