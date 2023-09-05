@@ -14,6 +14,11 @@
 
 
 ## Here is the image how the output looks like
-![Final output Image](GoogleHomepageCloneLight.png)
+<img src="GoogleHomepageCloneLight.png" alt="Final output image">
+<img src="GoogleHomepageCloneDark.png" alt="Final output image">
 
-![Final output Image](GoogleHomepageCloneDark.png)
+![Final Output Image](GoogleHomepageCloneDark.png)
+![Final Output Image](GoogleHomepageCloneLight.png)
+<!-- ![Final output Image](GoogleHomepageCloneLight.png) -->
+
+<!-- ![Final output Image](GoogleHomepageCloneDark.png) -->
