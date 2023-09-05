@@ -17,8 +17,7 @@
 <img src="GoogleHomepageCloneLight.png" alt="Final output image">
 <img src="GoogleHomepageCloneDark.png" alt="Final output image">
 
-![Final Output Image](GoogleHomepageCloneDark.png)
-![Final Output Image](GoogleHomepageCloneLight.png)
+![Final Output Image](https://divyapatel-31.firebaseapp.com/images/project/GoogleHomepageCloneDark.png)
 <!-- ![Final output Image](GoogleHomepageCloneLight.png) -->
 
 <!-- ![Final output Image](GoogleHomepageCloneDark.png) -->
