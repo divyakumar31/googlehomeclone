@@ -250,3 +250,47 @@ footer {
 .rightLinks > div > a:hover{
     text-decoration: underline;
 }
+
+.settingBox{
+    display: flex;
+    position: relative;
+    /* overflow: hidden; */
+}
+
+.buttonShow {
+    display: none;
+}
+
+.dark-mode-button {
+    width: 200%;
+    height: 100%;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 40px;
+    right: 0px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: height 0.5s;
+    color: #70757a;
+    font-size: 14px;
+}
+
+.darkmode {
+    display: none;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    color: #70757a;
+    font-size: 14px;
+    padding-left: 2px;
+}
+
+.darkmode.active {
+    display: block;
+}
+
+.dark-text {
+    pointer-events: none;
+}
