@@ -14,10 +14,11 @@
 
 
 ## Here is the image how the output looks like
-<img src="GoogleHomepageCloneLight.png" alt="Final output image">
-<img src="GoogleHomepageCloneDark.png" alt="Final output image">
+<!-- <img src="GoogleHomepageCloneLight.png" alt="Final output image">
+<img src="GoogleHomepageCloneDark.png" alt="Final output image"> -->
 
-![Final Output Image](https://divyapatel-31.firebaseapp.com/images/project/GoogleHomepageCloneDark.png)
+<!-- ![Final Output Image](https://divyapatel-31.firebaseapp.com/images/project/GoogleHomepageCloneDark.png) -->
+![Final Output Image](https://github.com/divyakumar31/googlehomeclone/blob/main/GoogleHomepageCloneDark.png)
 <!-- ![Final output Image](GoogleHomepageCloneLight.png) -->
 
 <!-- ![Final output Image](GoogleHomepageCloneDark.png) -->
