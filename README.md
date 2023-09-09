@@ -13,4 +13,6 @@
 ## Here is the image how the output looks like
 
 
-![Demo Image](/GoogleHomepageCloneLight-1.png?raw=true "Demo Image")
+![GoogleHomepageCloneDark](https://github.com/divyakumar31/googlehomeclone/assets/121997327/54f82603-64ca-4631-908f-d1af527b0eac)
+<br><br>
+![GoogleHomepageCloneLight](https://github.com/divyakumar31/googlehomeclone/assets/121997327/faafd28a-3637-4311-bf61-cf05705f6618)
