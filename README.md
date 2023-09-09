@@ -15,4 +15,6 @@
 
 ## Here is the image how the output looks like
 
-<img src="https://github.com/divyakumar31/googlehomeclone/blob/main/GoogleHomepageCloneDark.png" alt="Dark theme">
+![Light theme](/GoogleHomepageCloneLight.png)
+<br><br>
+![Dark theme](/GoogleHomepageCloneDark.png)
