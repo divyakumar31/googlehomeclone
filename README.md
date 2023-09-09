@@ -15,6 +15,6 @@
 
 ## Here is the image how the output looks like
 
-![Light theme](/GoogleHomepageCloneLight.png)
-<br><br>
-![Dark theme](/GoogleHomepageCloneDark.png)
+
+
+![Demo Image](GoogleHomepageCloneLight-1.png)
