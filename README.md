@@ -12,10 +12,5 @@
 
 ## Here is the image how the output looks like
 
-![No demo](GoogleHomepageCloneLight-1.png)
 
-![Demo Image][def]
-
-![Alt text](image.png)
-
-[def]: GoogleHomepageCloneLight-1.png
+![Demo Image](/GoogleHomepageCloneLight-1.png?raw=true "Demo Image")
