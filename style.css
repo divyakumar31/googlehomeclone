@@ -47,7 +47,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: calc(100vh - 60px - 100px);
+    height: calc(100dvh - 60px - 100px);
 }
 
 .formSection {
