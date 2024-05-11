@@ -1,4 +1,4 @@
-# [__Google Homepage Clone__](https://divyakumar31.github.io/googlehomeclone/)
+# [__Google Homepage UI Clone__](https://divyakumar31.github.io/googlehomeclone/)
 
 
 ## __Project details__
@@ -8,12 +8,6 @@
 -  __The project was created as a learning exercise to improve my web development skills.__
 -  __The project was a fun and challenging experience that helped me learn about HTML, CSS, and JavaScript.__
 
-
-## __Programming Languages__
-
-- **HTML** <img src="https://skillicons.dev/icons?i=html" style="width: 16px; height: 16px;"/>
-- **CSS** <img src="https://skillicons.dev/icons?i=css" style="width: 16px; height: 16px;"/>
-- **JS** <img src="https://skillicons.dev/icons?i=js" style="width: 16px; height: 16px;"/>
 
 
 ## Here is the image how the output looks like
